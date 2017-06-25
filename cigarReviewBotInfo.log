@@ -1,0 +1,25 @@
+2017-06-24 10:43:53,192 - INFO - Bot Authenticated as devgrv
+2017-06-24 10:43:53,194 - INFO - Bot Running...
+2017-06-24 10:44:09,814 - INFO - error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16.0)
+2017-06-24 10:46:48,393 - INFO - error with request HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /api/v1/access_token (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x00000132B4B3D898>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+2017-06-24 10:46:48,394 - INFO - Please check your Internet connection
+2017-06-24 10:47:36,089 - INFO - Bot Authenticated as devgrv
+2017-06-24 10:47:36,091 - INFO - Bot Running...
+2017-06-24 10:47:52,342 - INFO - error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16.0)
+2017-06-24 10:49:47,300 - INFO - Bot Authenticated as devgrv
+2017-06-24 10:49:47,300 - INFO - Bot Running...
+2017-06-24 10:50:03,330 - INFO - name 'error' is not defined
+2017-06-24 10:50:48,863 - INFO - Bot Authenticated as devgrv
+2017-06-24 10:50:48,863 - INFO - Bot Running...
+2017-06-24 10:51:05,793 - INFO - Internet down...Retrying in 60 seconds...
+2017-06-24 10:52:05,808 - INFO - Bot Running...
+2017-06-24 10:52:09,664 - INFO - Post submitted in CigarReview:23pdx2
+2017-06-24 10:52:13,832 - INFO - Comment submitted in CigarReview
+2017-06-24 10:52:13,833 - INFO - ###################################################
+2017-06-24 10:52:15,101 - INFO - RATELIMIT: 'you are doing that too much. try again in 9 minutes.' on field 'ratelimit'
+2017-06-24 10:52:15,117 - INFO - Sleeping...Will wake up in 10 mins
+2017-06-24 11:02:36,566 - INFO - Post submitted in CigarReview:15y7b5
+2017-06-24 11:02:39,743 - INFO - Comment submitted in CigarReview
+2017-06-24 11:02:39,744 - INFO - ###################################################
+2017-06-24 11:02:41,020 - INFO - RATELIMIT: 'you are doing that too much. try again in 9 minutes.' on field 'ratelimit'
+2017-06-24 11:02:41,020 - INFO - Sleeping...Will wake up in 10 mins
